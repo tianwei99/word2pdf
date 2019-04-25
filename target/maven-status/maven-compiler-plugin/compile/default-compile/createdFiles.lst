@@ -1,6 +1,0 @@
-cn/word2pdf/service/impl/MSConvert.class
-cn/word2pdf/service/impl/LinuxConvert.class
-cn/word2pdf/exceptions/FileExtentionForbiddenException.class
-cn/word2pdf/service/AbstraceConvert.class
-cn/word2pdf/service/IConvert.class
-cn/word2pdf/Application.class
